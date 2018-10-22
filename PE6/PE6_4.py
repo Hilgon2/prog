@@ -7,4 +7,4 @@ def hardloper(naam):
     file.write(s + naam + "\n")
     file.close()
 
-hardloper("Piet")
+hardloper("Justin")
